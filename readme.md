@@ -1,4 +1,3 @@
-## Backend application for logistics bar code scanner app
 
 ### Configuaration
 ``npm init``
